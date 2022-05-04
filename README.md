@@ -1,4 +1,4 @@
-![05B M](https://user-images.githubusercontent.com/18481009/166816252-be7e6522-c65d-4b80-8931-7449f61224ae.jpg)
+[![En savoir plus](https://user-images.githubusercontent.com/18481009/166816252-be7e6522-c65d-4b80-8931-7449f61224ae.jpg)](https://eazytraining.fr/paris "eazytraining.fr/paris")
 
 ![Dirane TAFEN's GitHub stats](https://github-readme-stats.vercel.app/api/?username=diranetafen&show_owner)
 
