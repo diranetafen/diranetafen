@@ -1,4 +1,4 @@
-[![bootcamp devops septembre 2022](https://user-images.githubusercontent.com/18481009/181177654-aede1f79-19ec-4598-ac6a-542c543aa252.jpeg)](https://eazytraining.fr/%C3%A9v%C3%A8nement/devops-bootcamp-devenez-devops-en-3-mois/ "BootCamp DevOps")
+[![bootcamp fin 2022](https://eazytraining.fr/wp-content/uploads/2022/10/bootcamp-fin-2022.png)](https://eazytraining.fr/futures-sessions/ "BootCamp EAZYTraining")
 
 ![Dirane TAFEN's GitHub stats](https://github-readme-stats.vercel.app/api/?username=diranetafen&show_owner)
 
