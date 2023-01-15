@@ -1,4 +1,4 @@
-[![bootcamp fin 2022](https://eazytraining.fr/wp-content/uploads/2022/10/bootcamp-fin-2022.png)](https://eazytraining.fr/futures-sessions/ "BootCamp EAZYTraining")
+[![bootcamp fin 2022](https://eazytraining.fr/wp-content/uploads/2022/10/bootcamp-fin-2022.png)](https://eazytraining.fr/sessions-futures/ "BootCamp EAZYTraining")
 
 ![Dirane TAFEN's GitHub stats](https://github-readme-stats.vercel.app/api/?username=diranetafen&show_owner)
 
